@@ -129,7 +129,6 @@ def cargar_datos_base():
     file_ids = [
         "1ojZcLZost0BM00yCGN8OLnu7XYyLpEYr",
         "1v08-7Jx4Iw3msAkgb1m01Im49s8gqCqO",
-        "1v6OgDHRSqNHbDnph2ijFvZB6RyTBAAk8",
         "1WQj9dD8RUkAcTvwunTGkkT4FwDfh6-vi",
         "1J49basZDca_rINW_h89q1aIZRIh2z4Ap",
         "1nunUlKE7fj2XaNrYk9iI5uUBnIRBgE-6"
